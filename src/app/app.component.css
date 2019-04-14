@@ -1,0 +1,13 @@
+#map{
+    height: 80%;
+    width: 80%;
+}
+#loc_details{
+    height: 200px;
+    width: 80%;
+}
+.map-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
